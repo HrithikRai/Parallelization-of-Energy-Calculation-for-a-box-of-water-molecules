@@ -1,5 +1,6 @@
 # Parallelization-of-Energy-Calculation-for-a-box-of-water-molecules
-In this project I have parallelized the massive energy calculation using technologies like MPI and OpenMP. Detailed description in the pdf file.
+![](images/water.gif)
+In this project I have parallelized the massive energy calculation using technologies like MPI and OpenMP. Detailed description [here](MPI_Parallel.pdf).
 
 # MPI (Message Passing Interface based approach)
 Here the project is parallelized on two levels.
